@@ -90,11 +90,11 @@ font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
  
 }
 .user>input , .pass>input{
- 
+ background-color: whitesmoke;
  padding: 10px 30px;
- border-radius: 5px;
- border-style: none;
- 
+ border: 2px solid lightblue;
+ border-radius: 5px; 
+ width: 100%;
  transition: all 0.2s;
 }
 .user>input:active , .pass>input:active{
