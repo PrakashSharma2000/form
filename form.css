@@ -101,6 +101,7 @@ font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
     box-shadow: 2px 1px 2px 1px lightblue,-2px -1px 2px 1px lightblue;  
     outline: none;
     border-style: none;
+    border-sizing: border-box;
     background-color: whitesmoke;
    }
 .user>input:focus , .pass>input:focus{
